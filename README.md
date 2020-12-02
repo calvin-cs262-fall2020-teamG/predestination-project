@@ -17,7 +17,7 @@ Unlike traditional treasure hunts, our mobile app *Predestination* conducts the 
 ### Preliminary Design
 
 * Design Models
-  * [UML Diagram](https://github.com/calvin-cs262-fall2020-teamG/predestination-project/blob/master/domainModel.md)
+  * [Domain Model](https://github.com/calvin-cs262-fall2020-teamG/predestination-project/blob/master/domainModel.md)
   * [UI Mockup](https://github.com/calvin-cs262-fall2020-teamG/predestination-project/blob/master/UI-Mockup.md)
 
 ### Usability Test
